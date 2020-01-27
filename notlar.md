@@ -1,0 +1,6 @@
+#NOTLAR
+
+##iÇERİK
+
+.AAAA
+.BBB
